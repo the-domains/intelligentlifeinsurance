@@ -1,0 +1,28 @@
+name: IntelligentLifeInsurance
+favicon: null
+layout_spectrum: 0.832800084259361
+typography_spectrum: 0.6925197499804199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3739226998295635
+  lightness: 0.7715955048333853
+  saturation: 0.39000896527431905
+  rhythmicContrast: 0.673995814519003
+purpose: []
