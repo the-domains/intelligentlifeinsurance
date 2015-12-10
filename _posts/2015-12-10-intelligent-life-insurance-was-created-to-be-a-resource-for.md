@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-10T18:01:46.227Z'
-dateModified: '2015-12-10T18:01:29.044Z'
+datePublished: '2015-12-10T19:45:06.396Z'
+dateModified: '2015-12-10T19:44:57.878Z'
 title: Intelligent Life Insurance was created to be a resource for people to learn how to get a good Life Insurance Policy
 author: []
 authors: []
