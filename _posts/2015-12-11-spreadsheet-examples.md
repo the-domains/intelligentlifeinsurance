@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T16:27:16.324Z'
-dateModified: '2015-12-11T16:27:02.343Z'
+datePublished: '2015-12-11T16:31:08.369Z'
+dateModified: '2015-12-11T16:31:04.771Z'
 title: Spreadsheet Examples
 author: []
+sourcePath: _posts/2015-12-11-spreadsheet-examples.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-11-spreadsheet-examples.md
-published: true
 url: spreadsheet-examples/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Spreadsheet Examples
