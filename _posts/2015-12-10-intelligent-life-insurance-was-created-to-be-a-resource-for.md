@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-11T15:21:46.156Z'
-dateModified: '2015-12-11T15:21:44.053Z'
+datePublished: '2015-12-11T15:35:10.051Z'
+dateModified: '2015-12-11T15:35:07.431Z'
 title: About Intelligent Life Insurance
 author: []
 sourcePath: _posts/2015-12-10-intelligent-life-insurance-was-created-to-be-a-resource-for.md
@@ -19,10 +19,8 @@ publisher:
   url: null
   favicon: null
 url: intelligent-life-insurance-was-created-to-be-a-resource-for/index.html
-_type: Article
+_type: WebPage
 
 ---
 # About Intelligent Life Insurance
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48dca3c2-3e19-41fa-8794-efe2d87bbb2b.jpg)
-
-# Intelligent Life Insurance was created to be a resource for people to learn how to get a good Life Insurance Policy
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/787f31f0ecece875c94b7b67612edd30981cb43d.jpg)
