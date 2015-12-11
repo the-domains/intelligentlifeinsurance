@@ -1,7 +1,7 @@
 name: IntelligentLifeInsurance
 favicon: null
-layout_spectrum: 0.23999
-typography_spectrum: 0.89587
+layout_spectrum: 0.24253
+typography_spectrum: 0.89841
 title: Intelligent Life Insurance
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d3e6f7'
-    - '#121212'
-    - '#68635f'
-    - '#95908c'
-    - '#4685aa'
+    - '#f4f2db'
+    - '#67b8a7'
+    - '#114f82'
+    - '#01013f'
+    - '#d39061'
   brandStrength: 0.75
   lightness: 0.6875
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.75
 purpose: []
