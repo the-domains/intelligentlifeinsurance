@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-11T15:35:10.051Z'
-dateModified: '2015-12-11T15:35:07.431Z'
+datePublished: '2015-12-11T15:40:16.110Z'
+dateModified: '2015-12-11T15:40:12.831Z'
 title: About Intelligent Life Insurance
 author: []
 sourcePath: _posts/2015-12-10-intelligent-life-insurance-was-created-to-be-a-resource-for.md
