@@ -1,6 +1,6 @@
 name: IntelligentLifeInsurance
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.75302
 typography_spectrum: 0.92127
 title: Intelligent Life Insurance
 cta:
@@ -23,7 +23,7 @@ color:
     - '#01013f'
     - '#d39061'
   brandStrength: 0.5
-  lightness: 0.6875
+  lightness: 0.9375
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
